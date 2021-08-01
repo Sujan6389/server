@@ -1,0 +1,8 @@
+.slider img{
+    height: 700px;
+    object-fit:cover;
+}
+
+.pointer{
+    cursor: pointer;
+}
